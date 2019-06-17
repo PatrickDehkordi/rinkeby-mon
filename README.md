@@ -1,4 +1,4 @@
-Rinkeby Network Stats
+Rinkeby Network Monitor
 ============
 [![Build Status][travis-image]][travis-url] [![dependency status][dep-image]][dep-url]
 
